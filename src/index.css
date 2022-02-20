@@ -38,7 +38,10 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    /* background-image: url('../src/assets/blue-wallpaper-background-texture-checkbox.jpg'); */
+    background-image: url('../src/assets/texture4.png');
+    background-repeat: repeat-y;
+    background-position: center;
+    background-size: contain;
 }
 
 /* ======================= GENERAL STYLES ============== */

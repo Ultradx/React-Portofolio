@@ -21,17 +21,17 @@ function About() {
         <div className="about__content">
           <div className="about__cards">
             <article className='about__card'>
-              <FaAward lassName='about__icon' />
+              <FaAward className='about__icon' />
               <h5>Experience</h5>
               <small>3+ Years Working</small>
             </article>
             <article className='about__card'>
-              <FiUsers lassName='about__icon' />
+              <FiUsers className='about__icon' />
               <h5>Clients</h5>
               <small>200+ WorldWide</small>
             </article>
             <article className='about__card'>
-              <VscFolderLibrary lassName='about__icon' />
+              <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
               <small>80+ Completed</small>
             </article>

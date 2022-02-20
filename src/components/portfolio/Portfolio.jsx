@@ -1,5 +1,5 @@
 import React from 'react'
-import './portofolio.css'
+import './portfolio.css'
 import IMG1 from '../../assets/portofolio1.jpg'
 import IMG2 from '../../assets/portofolio2.jpg'
 import IMG3 from '../../assets/portofolio3.jpg'
@@ -54,9 +54,9 @@ const data = [
   }
 ]
 
-export default function Portofolio() {
+export default function Portfolio() {
   return (
-    <section id='portofolio'>
+    <section id='portfolio'>
       <h5>My React Work</h5>
       <h2>Portofolio</h2>
 
