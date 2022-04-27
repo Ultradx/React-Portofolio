@@ -33,7 +33,7 @@ function Contact() {
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>esmer@gmail.com</h5>
-            <a href="mailto:esmer@gmail.com" target='_blank'>Send a message</a>
+            <a href="mailto:ultradx.as@gmail.com" target='_blank'>Send a message</a>
           </article>
           <article className='contact__option'>
             <RiMessengerLine className='contact__option-icon' />
@@ -45,7 +45,7 @@ function Contact() {
             <BsWhatsapp className='contact__option-icon' />
             <h4>WhatsApp</h4>
             <h5>+6363636363</h5>
-            <a href="https://api.whatsapp.com/send?phone+6363636363" target='_blank'>Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone+6971765271" target='_blank'>Send a message</a>
           </article>
 
         </div>
