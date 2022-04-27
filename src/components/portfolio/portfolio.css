@@ -32,6 +32,20 @@
     margin-bottom: 1rem;
 }
 
+.load_more_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.load_more_btn {
+    margin-top: 2rem;
+    padding: 1.3rem;
+    border-radius: 1rem;
+    border: 1px solid transparent;
+    text-align: center;
+}
+
 /* ========================= MEDIA QUERIES (MEDIUM DEVICES) =============== */
 
 @media screen and (max-width: 1024px) {

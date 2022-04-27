@@ -3,6 +3,10 @@ import './footer.css'
 import {FaFacebookF} from 'react-icons/fa'
 import {FaInstagram} from 'react-icons/fa'
 import {IoLogoTwitter} from 'react-icons/io'
+import { FaGithub } from 'react-icons/fa'
+import { IoLogoGithub } from 'react-icons/io'
+import { FaGithubAlt } from 'react-icons/fa'
+import { FaGithubSquare } from 'react-icons/fa'
 
 export default function Footer() {
   return (
@@ -23,6 +27,8 @@ export default function Footer() {
         <a href="https://facebook.com"><FaFacebookF /></a>
         <a href="https://instagram.com"><FaInstagram /></a>
         <a href="https://twitter.com"><IoLogoTwitter /></a>
+        <a href="https://github.com"><FaGithubAlt /></a>
+
       </div>
 
       <div className="footer__copyright">

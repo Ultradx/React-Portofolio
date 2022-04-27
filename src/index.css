@@ -27,6 +27,7 @@
 
 html {
     scroll-behavior: smooth;
+    user-select:none;
 }
 
 ::-webkit-scrollbar {
@@ -42,6 +43,7 @@ body {
     background-repeat: repeat-y;
     background-position: center;
     background-size: contain;
+    user-select:none;
 }
 
 /* ======================= GENERAL STYLES ============== */

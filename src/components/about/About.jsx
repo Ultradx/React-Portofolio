@@ -1,13 +1,13 @@
 import React from 'react'
 import './about.css'
 import Me from '../../assets/me.png'
-import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
-import {VscFolderLibrary} from 'react-icons/vsc'
+import { FaAward } from 'react-icons/fa'
+import { FiUsers } from 'react-icons/fi'
+import { VscFolderLibrary } from 'react-icons/vsc'
 
 function About() {
   return (
-    <section id='about'>
+    <section id="about">
       <h5>Get To Know</h5>
       <h2>About Me</h2>
 
@@ -20,30 +20,33 @@ function About() {
 
         <div className="about__content">
           <div className="about__cards">
-            <article className='about__card'>
-              <FaAward className='about__icon' />
+            <article className="about__card">
+              <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
-            <article className='about__card'>
-              <FiUsers className='about__icon' />
+            <article className="about__card">
+              <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>200+ WorldWide</small>
+              <small>4+ Europe</small>
             </article>
-            <article className='about__card'>
-              <VscFolderLibrary className='about__icon' />
+            <article className="about__card">
+              <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>10+ Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. 
-            Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, quando un anonimo 
-            tipografo prese una cassetta di caratteri e li assemblò per preparare un testo campione.
+            Hello! My name is Esmerald and I enjoy creating things that live on
+            the internet. My interest in web development started back in 2018
+            when I decided to try creating eclass site for school project — turns out
+            that I realy enjoyed creating webstites!
           </p>
 
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>

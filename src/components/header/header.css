@@ -69,6 +69,11 @@ header {
         height: 68vh;
     }
 
+    .me {
+        height: 20rem;
+        padding: 0.5rem 1.5rem 1.5rem 1.5rem;
+    }
+
 }
 
 /* ========================= MEDIA QUERIES (SMALL DEVICES) =============== */
@@ -81,5 +86,10 @@ header {
     .header__socials,
     .scroll_down {
         display: none;
+    }
+
+    .me {
+        height: 30rem;
+        padding: 5rem 1.5rem 1.5rem 1.5rem;
     }
 }
