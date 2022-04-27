@@ -32,7 +32,7 @@ function Contact() {
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>esmer@gmail.com</h5>
+            <h5>ultradx.as@gmail.com</h5>
             <a href="mailto:ultradx.as@gmail.com" target='_blank'>Send a message</a>
           </article>
           <article className='contact__option'>
@@ -44,8 +44,8 @@ function Contact() {
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon' />
             <h4>WhatsApp</h4>
-            <h5>+6363636363</h5>
-            <a href="https://api.whatsapp.com/send?phone+6971765271" target='_blank'>Send a message</a>
+            <h5>+6971765271</h5>
+            <a href="https://wa.me/6971765271" target='_blank'>Send a message</a>
           </article>
 
         </div>

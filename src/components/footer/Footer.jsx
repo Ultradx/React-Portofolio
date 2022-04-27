@@ -24,10 +24,10 @@ export default function Footer() {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com"><FaFacebookF /></a>
-        <a href="https://instagram.com"><FaInstagram /></a>
-        <a href="https://twitter.com"><IoLogoTwitter /></a>
-        <a href="https://github.com"><FaGithubAlt /></a>
+        <a href="https://www.facebook.com/esmerald.seitlli/"><FaFacebookF /></a>
+        <a href="https://www.instagram.com/aldo_seitlli/"><FaInstagram /></a>
+        <a href="https://twitter.com/seitllee"><IoLogoTwitter /></a>
+        <a href="https://github.com/Ultradx"><FaGithubAlt /></a>
 
       </div>
 
